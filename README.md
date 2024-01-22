@@ -25,4 +25,4 @@ Relaciona informações
 É o Registro
 
 ## SQL
- Essencialmente, é uma linguagem que permite comunicar com banco de dados com o objetivo de manusear os dados que eles armazenam.
+ Essencialmente, é uma linguagem que permite comunicar com banco de dados com o objetivo de manusear os dados que eles armazenam
