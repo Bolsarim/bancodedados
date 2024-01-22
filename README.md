@@ -26,3 +26,13 @@ Relaciona informações
 
 ## SQL
  Essencialmente, é uma linguagem que permite comunicar com banco de dados com o objetivo de manusear os dados que eles armazenam
+
+ # TRABALHANDO COM SQL
+ ## CONECTANDO: 
+ mysql -h localhost -u root
+
+ -h= computador/host conectado
+
+ -u= usuario que está ultilizando
+
+ -p= senha
