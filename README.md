@@ -36,3 +36,17 @@ Relaciona informações
  -u= usuario que está ultilizando
 
  -p= senha
+
+ Show databases= mostra os bancos de dados
+ ;= finaliza um comando
+
+ DROP DATABASE "bd_login"; apaga a palavra
+
+CREATE TABLE ; : criar tabela
+
+  () : criar campos 
+   
+DESC JOGOS; : mostra a estrutura da tabela
+
+
+
