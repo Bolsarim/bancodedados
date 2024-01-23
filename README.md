@@ -31,22 +31,22 @@ Relaciona informações
  ## CONECTANDO: 
  mysql -h localhost -u root
 
- -h= computador/host conectado
+ `-h=` computador/host conectado
 
- -u= usuario que está ultilizando
+ `-u=` usuario que está ultilizando
 
- -p= senha
+ `-p=` senha
 
- Show databases= mostra os bancos de dados
+` Show databases=` mostra os bancos de dados
  ;= finaliza um comando
 
- DROP DATABASE "bd_login"; apaga a palavra
+ `DROP DATABASE` "bd_login";  apaga a palavra
 
-CREATE TABLE ; : criar tabela
+`CREATE TABLE` ; : criar tabela
 
-  () : criar campos 
+  `() `: criar campos 
    
-DESC JOGOS; : mostra a estrutura da tabela
+`DESC JOGOS;` : mostra a estrutura da tabela
 
 
 
